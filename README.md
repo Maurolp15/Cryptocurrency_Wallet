@@ -25,4 +25,4 @@ Integrating the two files will allow me to generate a digital wallet, access acc
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Ganache – Transaction Details
-![Stocks Phot]()
+![Stocks Phot](https://github.com/Maurolp15/Unit_19_Cryptocurrency_Wallet/blob/main/Screenshots/Screenshot_2.png?raw=true)
