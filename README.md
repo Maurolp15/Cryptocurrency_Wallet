@@ -19,7 +19,7 @@ Integrating the two files will allow me to generate a digital wallet, access acc
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Ganache – Address Balance and History
-![Stocks Phot]()
+![Stocks Phot](https://github.com/Maurolp15/Unit_19_Cryptocurrency_Wallet/blob/main/Screenshots/Screenshot_1.png?raw=true)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
