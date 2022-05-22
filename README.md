@@ -1,6 +1,4 @@
-# Unit 19
-
-## Cryptocurrency Wallet
+# Cryptocurrency Wallet
 
 My name is Oscar Lopez, I’m a student at the University of Miami FinTech Bootcamp Program.
 
